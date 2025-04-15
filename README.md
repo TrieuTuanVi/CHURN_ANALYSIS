@@ -15,7 +15,7 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 **2. Study Churner Profile & Identify Areas for Implementing Marketing Campaigns**
 
 **3. Identify a Method to Predict Future Churners**
-## Metrics Requires:
+## 🚀 Metrics Requires:
 1. Total Customers
 2. Total Churn & Churn Rate
 3. New Joiners
@@ -28,36 +28,13 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
 
 ![Process](https://github.com/user-attachments/assets/7468565f-9c94-4ff6-bcf2-a8203f99ec4a)
 
-**1. ETL Process on SQL Server**
-
-   a. Database Creation
+**1. ETL Process on SQL Server** (Database Creation -> Table Creation -> View Creation)
   
-   b. Table Creation
-  
-   c. View Creation
-  
-**2. Power BI - Churn Summary**
-   
-   a. Data Transformation
-  
-   b. Custom Measures
-  
-   c. Basic Visualization
-  
-   d. Advanced Visualization
+**2. Power BI - Churn Summary** (Data Transformation -> Custom Measures -> Basic Visualization -> Advanced Visualization)
   
 **3. Data Analysis Approach**
 
-
-**4. ML Model - Random Forest**
-
-  a. Data Preperation
-  
-  b. Processing
-  
-  c. Model Building & Evaluation
-  
-  d. Prediction on Joiner Data
+**4. ML Model - Random Forest** (Data Preperation -> Processing -> Model Building & Evaluation -> Prediction on Joiner Data)
   
 **5. Power BI - Churn Prediction**
 
