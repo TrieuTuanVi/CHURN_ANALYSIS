@@ -21,23 +21,23 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
 
 ![Process](https://github.com/user-attachments/assets/7468565f-9c94-4ff6-bcf2-a8203f99ec4a)
 
-1. ETL Process on SQL Server
+**1. ETL Process on SQL Server**
 
-  a. Database Creation
+       a. Database Creation
   
-  b. Table Creation
+       b. Table Creation
   
-  c. View Creation
+       c. View Creation
   
 2. Power BI - Churn Summary
    
-  a. Data Transformation
+       a. Data Transformation
   
-  b. Custom Measures
+       b. Custom Measures
   
-  c. Basic Visualization
+       c. Basic Visualization
   
-  d. Advanced Visualization
+        d. Advanced Visualization
   
 3. Data Analysis Approach
 
