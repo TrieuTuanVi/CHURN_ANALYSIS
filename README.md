@@ -1,5 +1,5 @@
 # Power BI Churn Analysis Project | Power BI + SQL + Machine Learning
-## Project Goals:
+## 🎯 Project Goals:
 Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
 
 **1. Analyze Customer Data at below levels**
