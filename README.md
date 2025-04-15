@@ -28,4 +28,13 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
 5. Build Machine Learning Model - Random Forest in Jupyter Notebook
 6. Visualize Predicted Data in Power BI - Predicted Churner Profile
 
+## DASSHBOARD:
+
+* Summary Dashboard:
+  
+![Summary](https://github.com/user-attachments/assets/416ec549-f1fa-44e0-9794-d572fb1420af)
+
+* Churn Prediction Dashboard:
+
+![Prediction](https://github.com/user-attachments/assets/2f2ffaaa-ecaf-43cb-951d-2241091a65f8)
 
