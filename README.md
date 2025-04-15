@@ -20,10 +20,10 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 2. Total Churn & Churn Rate
 3. New Joiners
 
-## Dataset Used:
+## 📂 Dataset Used:
 - <a href= "https://github.com/TrieuTuanVi/Churn_Analysis/commit/6e097e3d31e4cb1d1d0d32e1dba5649e6f9108e8">Dataset</a>
 
-## Processing: 
+## ⚙️ Processing: 
 Project use SQL Server, Power BI & Python, we will cover a wide range of topics which includes
 
 ![Process](https://github.com/user-attachments/assets/7468565f-9c94-4ff6-bcf2-a8203f99ec4a)
@@ -65,7 +65,7 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
   
   b. Customer at Risk 
 
-## Dashboard:
+## 📊 Dashboard:
 
 * Summary Dashboard:
   
@@ -75,7 +75,7 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
 
 ![Prediction](https://github.com/user-attachments/assets/2f2ffaaa-ecaf-43cb-951d-2241091a65f8)
 
-## Project Insights:
+## 💡 Project Insights:
 - Female customers account for the majority of churn (~64.1%) — higher than males.
 - Customers aged 30-50 show the highest churn rate (~31.6%).
 - Month-to-Month contract users make up the largest portion of churn (~46.5%).
@@ -84,5 +84,5 @@ Project use SQL Server, Power BI & Python, we will cover a wide range of topics 
 - Jammu and Assam are the states with the highest churn rates (57.2% and 38.1%).
 - Customers without Internet Service and Online Security have the highest churn risk.
 
-## Final Conclusion:
+## ✅ Final Conclusion:
 To reduce churn, focus on female customers aged 30-50 using Month-to-Month contracts and Mailed Check payment. Encourage contract upgrades, promote Internet & Security packages, automate payment methods, and improve service quality in high-risk states like Jammu and Assam.
