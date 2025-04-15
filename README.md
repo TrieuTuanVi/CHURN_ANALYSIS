@@ -17,8 +17,10 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 - <a href= "https://github.com/TrieuTuanVi/Churn_Analysis/commit/6e097e3d31e4cb1d1d0d32e1dba5649e6f9108e8">Dataset</a>
 
 ## PROCESSING: 
-![Process](https://github.com/user-attachments/assets/7468565f-9c94-4ff6-bcf2-a8203f99ec4a)
 Project use SQL Server, Power BI & Python, we will cover a wide range of topics which includes
+
+![Process](https://github.com/user-attachments/assets/7468565f-9c94-4ff6-bcf2-a8203f99ec4a)
+
 1. ETL process in SQL Server
 2. Data Cleaning in SQL Server
 3. Power BI Transformations
