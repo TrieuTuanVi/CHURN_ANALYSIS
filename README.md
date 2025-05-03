@@ -25,13 +25,13 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 - <a href= "https://github.com/TrieuTuanVi/Churn_Analysis/commit/6e097e3d31e4cb1d1d0d32e1dba5649e6f9108e8">Dataset</a>
 
 ## 🛠️ Tools & Technologies Used
-**Data Extraction & Preprocessing**
+1️⃣ **Data Extraction & Preprocessing**
 
 * **SQL** — Data extraction and manipulation.
 
 * **Power Query Editor** — Data transformation for Power BI.
 
-**Analysis & Modeling**
+2️⃣ **Analysis & Modeling**
 
 * **Python** (Pandas, Matplotlib, Seaborn) — Analysis and visualization.
 
@@ -40,7 +40,7 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 * **DAX** — Custom calculations in Power BI.
 
 
-**Visualization & Reporting**
+3️⃣ **Visualization & Reporting**
 
 * **Microsoft Power BI** — Interactive dashboards and visualization.
 
